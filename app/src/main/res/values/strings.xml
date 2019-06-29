@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Train Driver</string>
+    <string name="no_connection_string">No Connection.\n Swipe Down to Reload</string>
+    <string name="sign_up">
+        <u>Signup</u>
+    </string>
+    <string name="terms_and_condition">Terms and Condition</string>
+    <string name="serverURL">http://192.168.43.143/train_api/public/</string>
+    <!--<string name="arrivalServerURL">http://train.nyindahotels.com/train_api/</string>-->
+    <string name="arrivalServerURL">http://192.168.43.143/train_api/</string>
+</resources>
